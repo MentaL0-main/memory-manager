@@ -1,6 +1,7 @@
 # Memory manager
 
 ![screenshot](screenshots/screenshot.png)
+![screenshot](screenshots/screenshot2.png)
 
 ## Description
 Memory manager is a small utility that allows you to manage memory at a basic level. Allocate and deallocate
