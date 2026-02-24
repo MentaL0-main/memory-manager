@@ -1,10 +1,8 @@
 # Memory manager
 
-![screenshot](screenshots/screenshot.png)
-![screenshot](screenshots/screenshot2.png)
+Memory manager is a small utility that allows you to allocate memory, free it, and prevent overflows.
 
-## Description
-Memory manager is a small utility that allows you to manage memory at a basic level. Allocate and deallocate
+![screenshot](screenshots/screenshot2.png)
 
 ## Commands
 You can type 'help' to get list of all commands:
@@ -25,7 +23,7 @@ list of commands:
 ```
 
 ## Quick start
-1) Clone and go to repository
+1) Clone repository and move to dir
 ```bash
 git clone https://github.com/mental0-main/memory-manager.git
 cd memory-manager
@@ -36,10 +34,10 @@ cd memory-manager
 gcc -o memory-manager main.c
 ```
 
-3) Finally - Execute and use
+3) Execute and use
 ```bash
 ./memory-manager
 ```
 
 ## License
-Lincense - MIT.
+This project is licensed undedr the **MIT License**.
