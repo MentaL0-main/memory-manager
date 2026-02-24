@@ -79,8 +79,6 @@ void execute(char* cmd) {
 }
 
 int main(int argc, char* argv[]) {
-  memory = (void*)malloc(0);
-
   const char* welcome_message = "Welcome to memory manager!\n"
                                 "You can type 'help' to get list of commands.\n";
   printf("%s", welcome_message);
